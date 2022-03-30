@@ -42,7 +42,7 @@
 
 
 
-### Backend  
+### Back-end  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
@@ -68,5 +68,11 @@
 </td></tr></table>  
 
 <br/>  
+### My Stats
+
+<img  src="https://github-readme-stats.vercel.app/api?username=1mt142&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=1mt142&theme=tokyonight&hide_border=true" width="49%" >
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=1mt142&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 
