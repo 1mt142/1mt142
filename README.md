@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">
+  Welcome to 1mt142's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-<!--
-**1mt142/1mt142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full-stack Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center"> 💼 Working at <a href="">...</a> </p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=1mt142&theme=radical&langs_count=6&layout=compact"><img alt="1mt142" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mt142&theme=radical&langs_count=6&layout=compact" /></a>
+ </p>
+<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=1mt142&label=Profile%20views&color=0e75b6&style=flat" alt="ryihan" /></h2>
+<p align="center">
+  <a href="mailto:czar.imtiaz@gmail.com">
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
+  </a>
+</p>
