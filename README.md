@@ -69,7 +69,7 @@
 
 <br/>  
 
-### Stats   
+### 📶 Stats   
 
 <img  src="https://github-readme-stats.vercel.app/api?username=1mt142&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=1mt142&theme=tokyonight&hide_border=true" width="48%" >
