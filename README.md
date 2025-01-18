@@ -3,10 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h3 align="center">Full-stack Developer <img src="https://komarev.com/ghpvc/?username=1mt142&label=Profile%20views&color=0e75b6&style=flat" alt="imtiaz" />
+<h3 align="center">Fullstack Developer <img src="https://komarev.com/ghpvc/?username=1mt142&label=Profile%20views&color=0e75b6&style=flat" alt="imtiaz" />
 </h3>
 
-<p align="center"> 💼 Working 👉 <a href="">MFS,FinTech</a> </p> 
+<p align="center"> 💼 Expertise 👉 <a href="">Manufacturing, e-Com, MFS, FinTech</a> </p>
 
 
 <p align="center">
